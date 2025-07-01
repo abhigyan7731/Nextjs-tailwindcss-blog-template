@@ -8,18 +8,13 @@ For Demo checkout following links👇: <br />
 [Nextjs Personal Blog Website](https://create-blog-with-nextjs.vercel.app/) <br />
 
 Starter Code Files👇: <br />
-[Nextjs Personal Blog Website Starter Code](https://github.com/codebucks27/Nextjs-contentlayer-blog) <br />
+[Nextjs Personal Blog Website Starter Code](https://github.com/abhigyan7731) <br />
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/1QGLHOaRLwM <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/1QGLHOaRLwM?style=social)](https://youtu.be/1QGLHOaRLwM)<br />
 
----
+
 ✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
 
----
 
-Checkout My Personal blog: [DevDreaming](https://devdreaming.com/)<br />
 
 ---
 >### NOTE: In the youtube tutorial I have used contentlayer for the markdown files. Since contentlayer is not actively maintained, I have switched to [Velite.js](https://velite.js.org/) for the markdown files. If you want to checkout the contentlayer please switch to the [contentlayer](https://github.com/codebucks27/Nextjs-tailwindcss-blog-template/tree/Contentlayer) branch.
