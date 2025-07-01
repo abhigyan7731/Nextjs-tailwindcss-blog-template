@@ -6,7 +6,7 @@ const siteMetadata = {
     description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
     language: 'en-us',
     theme: 'system',
-    siteUrl: 'https://create-blog-with-nextjs.vercel.app', // system, dark or light// your website URL
+    siteUrl: 'https://vercel.com/new?teamSlug=abhigyan-kr-guptas-projects', // system, dark or light// your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'abhigyankumar268@gmail.com', 
